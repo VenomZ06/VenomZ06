@@ -15,8 +15,8 @@ I'm currently a Data management leader at Wingo ✈️ and formerly a webmaster 
 Currently rediscovering my passion for web development 🛠 and digital transformation. 🚀  
 I am working on some side projects, learning a couple new tecnologies 🌱, and trying to run a marathon for the first time. 🏃🏽‍♂️
 
-<img align="right" src="https://media.giphy.com/media/XbQesBg4di7St1NbqY/giphy.gif" />
-<!--img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /-->
+<img align="right" src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" />
+
 
 </div>
 <div id="social">
@@ -24,9 +24,9 @@ I am working on some side projects, learning a couple new tecnologies 🌱, and 
 #### 📫 How to reach me:
 
 <div class="icons" align="center">
-<a href="https://www.youtube.com/channel/UCq157RmnT40aDKMWwURuA5w"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" alt="youtube" width="40" height="40"/></a> 
-<a href="https://wa.link/zfmh7o"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" alt="whatsapp" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/esteban-rinc%C3%B3n-correa-553597b7/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="linkedin" width="40" height="40"/></a>
+
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logoColor=FFFFFF&logo=YouTube)](https://www.youtube.com/channel/UCq157RmnT40aDKMWwURuA5w) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logoColor=FFFFFF&logo=WhatsApp)](https://wa.link/zfmh7o) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2878b5?style=flat-square&logoColor=FFFFFF&logo=LinkedIn)](https://www.linkedin.com/in/esteban-rinc%C3%B3n-correa-553597b7/)
+
 </div>
 </div>
 <div id="about">
@@ -51,4 +51,6 @@ I am working on some side projects, learning a couple new tecnologies 🌱, and 
 </div>
 
 </div>
+<div id="stats">
 
+</div>
