@@ -57,7 +57,7 @@ I am working on some side projects, learning a couple new tecnologies 🌱, and 
 <div id="stats">
 
 ### 📊 Some Insights ...
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VenomZ06)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VenomZ06&theme=dark&background=000610)](https://git.io/streak-stats)  
 ![VenomZ06's GitHub stats](https://github-readme-stats.vercel.app/api?username=VenomZ06&show_icons=true&bg_color=00000000)
 
 </div>
