@@ -12,8 +12,11 @@ ESTADÍSTICAS:
 <div id="intro">
 
 I'm currently a Data management leader at Wingo ✈️ and formerly a webmaster at Copa Airlines. 🛩  
-Currently rediscovering my passion web development 🛠 and digital transformation. 🚀  
-I am working on some side projects, learning a couple new tecnologies 🌱, and trying to run a marathon for the first time ever. 🏃🏽‍♂️
+Currently rediscovering my passion for web development 🛠 and digital transformation. 🚀  
+I am working on some side projects, learning a couple new tecnologies 🌱, and trying to run a marathon for the first time. 🏃🏽‍♂️
+
+<img align="right" src="https://media.giphy.com/media/XbQesBg4di7St1NbqY/giphy.gif" />
+<!--img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /-->
 
 </div>
 <div id="social">
@@ -31,17 +34,21 @@ I am working on some side projects, learning a couple new tecnologies 🌱, and 
 ### 💬 About Me
 
   - Adding content for my YouTube channel.
-  - Ask me about SEO y Google Search Console.
+  - Ask me about SEO & Google Search Console.
+  - Professional Looker Studio & Power BI dashboards builder.
   - My personal website is under development.
 
 #### ⚙️ I’m currently fluent on ...
 
-Sé desarrollar en php, javascript, html5, css3, mysql, r, bigquery
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+<div class="icons" align="center">
+<a href="#about"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /></a> <a href="#about"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" /></a> <a href="#about"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a> <a href="#about"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /></a> <a href="#about"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /></a> <a href="#about"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40" /></a> <a href="#about"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="R studio" width="40" height="40" /></a> <a href="#about"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40" /></a> 
+</div>
 
-#### 🔭  I’m currently learning ...
+#### 🔭  I’m learning and trainning ...
 
-  - ACTUALMENTE ESTOY APRENDIENDO REACT, AWS, Y ...
+<div class="icons" align="center">
+<a href="#about"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" /></a> <a href="#about"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" /></a> <a href="#about"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
+</div>
 
 </div>
 
