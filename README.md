@@ -17,7 +17,6 @@ I am working on some side projects, learning a couple new tecnologies 🌱, and 
 
 <img align="right" src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" />
 
-
 </div>
 <div id="social">
 
