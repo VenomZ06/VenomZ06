@@ -6,6 +6,8 @@ ESTADÍSTICAS:
 -  ...
 - ⚡ Fun fact: ...
 -->
+<div id banner> ![Esteban Rincon](/banner.svg)</div>
+
 
 <h2 id="header" align="center"> ¡Hello World, I'm Esteban! 🙂</h2>
 
