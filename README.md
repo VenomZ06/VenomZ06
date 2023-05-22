@@ -1,6 +1,4 @@
 <!--
-ESTADÍSTICAS:
-  https://github.com/DenverCoder1/github-readme-streak-stats
   https://github.com/anuraghazra/github-readme-stats
 **VenomZ06/VenomZ06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -  ...
@@ -57,5 +55,9 @@ I am working on some side projects, learning a couple new tecnologies 🌱, and 
 
 </div>
 <div id="stats">
+
+### 📊 Some Insights ...
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VenomZ06)](https://git.io/streak-stats)  
+![VenomZ06's GitHub stats](https://github-readme-stats.vercel.app/api?username=VenomZ06&show_icons=true&bg_color=00000000)
 
 </div>
